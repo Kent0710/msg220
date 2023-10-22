@@ -7,7 +7,7 @@ const Footer = () => {
             <p
                 className="font-normal mb-5"
             >
-                I'm sorry natagalan huhu kinakalawang na akoo :((
+                I am so sorry natagalan huhu kinakalawang na akoo 
             </p>
             <p>
                 Drafted

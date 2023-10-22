@@ -26,13 +26,13 @@ const Main = () => {
                 <p
                     className="break-keep"
                 >
-                    " I see that you're overthinking and I respect that. Nevertheless, 
-                    I just wanted to say that you'll never be a distraction to me :>.
-                    If my studies are important to me, then so as you!! You'll always
+                    I see that you are overthinking and I respect that. Nevertheless, 
+                    I just wanted to say that you will never be a distraction to me.
+                    If my studies are important to me, then so as you!! You wll always
                     welcome to me anytime, even at the busiest moments. There are times
                     where I may not be able to respond immediately but rest assured that
-                    it's not because you're becoming a bother to me. You're already important 
-                    to me so don't you worry. I want you to want me and be clingyy, HUI. ""
+                    it is not because you are becoming a bother to me. You are already important 
+                    to me so dont you worry about those stuffs hehez. I want you to want me and be clingyy, HUI.
                 </p>
 
                 <Image 
