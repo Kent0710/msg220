@@ -9,12 +9,12 @@ const Main = () => {
             className="p-20 flex flex-col font-serif text-lg"
         >
 
-            <h2 className="pl-[30rem] text-xl font-semibold"> 
+            <h2 className="md:pl-[30rem] text-xl font-semibold"> 
                 To Chelssey,
             </h2>
 
             <div
-                className="flex w-full p-20 gap-10 items-center justify-center"
+                className="flex flex-col md:flex-row w-full p-20 gap-10 items-center justify-center"
             >
 
                 <Image 
@@ -45,7 +45,7 @@ const Main = () => {
 
 
             <h2
-                className="place-self-end pr-[30rem] text-xl font-semibold"
+                className="place-self-end md:pr-[30rem] text-xl font-semibold"
             >
                 From Your Presi
             </h2>
