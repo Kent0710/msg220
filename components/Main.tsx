@@ -14,7 +14,7 @@ const Main = () => {
             </h2>
 
             <div
-                className="flex flex-col md:flex-row w-full p-20 gap-10 items-center justify-center"
+                className="flex flex-col md:flex-row w-full p-5 gap-10 items-center justify-center"
             >
 
                 <Image 
@@ -45,7 +45,7 @@ const Main = () => {
 
 
             <h2
-                className="place-self-end md:pr-[30rem] text-xl font-semibold"
+                className="text-right md:pr-[30rem] text-xl font-semibold"
             >
                 From Your Presi
             </h2>
