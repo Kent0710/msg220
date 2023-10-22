@@ -2,7 +2,7 @@ const Footer = () => {
 
     return (
         <div
-            className=" w-full py-14 font-bold text-center text-md"
+            className=" w-full py-14 font-bold text-center text-md p-2"
         >
             <p
                 className="font-normal mb-5"

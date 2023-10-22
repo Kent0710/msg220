@@ -6,7 +6,7 @@ const Main = () => {
 
     return (
         <div
-            className="p-20 flex flex-col font-serif text-lg"
+            className=" p-3 md:p-10 lg:20 flex flex-col font-serif text-lg"
         >
 
             <h2 className="md:pl-[30rem] text-xl font-semibold"> 
